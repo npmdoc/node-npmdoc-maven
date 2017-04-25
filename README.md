@@ -1,4 +1,7 @@
-# api documentation for  [maven (v4.1.0)](https://github.com/headcr4sh/node-maven)  [![npm package](https://img.shields.io/npm/v/npmdoc-maven.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-maven) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-maven.svg)](https://travis-ci.org/npmdoc/node-npmdoc-maven)
+# npmdoc-maven
+
+#### basic api documentation for  [maven (v4.1.0)](https://github.com/headcr4sh/node-maven)  [![npm package](https://img.shields.io/npm/v/npmdoc-maven.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-maven) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-maven.svg)](https://travis-ci.org/npmdoc/node-npmdoc-maven)
+
 #### Maven wrapper for Node.js
 
 [![NPM](https://nodei.co/npm/maven.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/maven)
@@ -70,7 +73,8 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "typings": "./typings.d.ts",
-    "version": "4.1.0"
+    "version": "4.1.0",
+    "bin": {}
 }
 ```
 
